@@ -6,7 +6,7 @@
 # Configurando o diretório de trabalho
 # Coloque entre aspas o diretório de trabalho que você está usando no seu computador
 # Não use diretórios com espaço no nome
-setwd("C:/FCD/BigDataRAzure/Cap02")
+setwd("C:/FCD/DSAFormacaoCientistaDados/BigDataRAzure/Cap02")
 getwd()
 
 # Criando Variáveis
@@ -35,6 +35,7 @@ mode(var3)
 var4 = function(x) {x+3}
 var4
 mode(var4)
+var4(2)
 
 
 # Podemos também mudar o modo do dado
